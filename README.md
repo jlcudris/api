@@ -26,6 +26,8 @@ REPOSITORIO FRONTEND https://github.com/jlcudris/frontend-suplos-en-vue
 
 el nombre de la carpeta que contendra el desarollo backend sera api
 
+*el archivo .env tiene las variables de entorno para la conexion a la BD Modificar si ese necesario
+
 #Frontend
 Node.js v18.13.0
 @vue/cli 5.0.8
