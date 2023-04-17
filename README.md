@@ -24,7 +24,7 @@ REPOSITORIO BACKEND https://github.com/jlcudris/api
 
 REPOSITORIO FRONTEND https://github.com/jlcudris/frontend-suplos-en-vue
 
-el nomnre de la carpeta que contendra el desarollo backend sera api
+el nombre de la carpeta que contendra el desarollo backend sera api
 
 #Frontend
 Node.js v18.13.0
