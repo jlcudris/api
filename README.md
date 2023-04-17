@@ -20,6 +20,10 @@ composer require vlucas/phpdotenv
 LINK DE DOCUMENTACIÓN DE LA API
 https://quilled-gem-b22.notion.site/Documentaci-n-Api-Php-para-Prueba-Suplos-a9bd1f4927b74e9f838f402d2c65e798
 
+REPOSITORIO BACKEND https://github.com/jlcudris/api
+
+REPOSITORIO FRONTEND https://github.com/jlcudris/frontend-suplos-en-vue
+
 el nomnre de la carpeta que contendra el desarollo backend sera api
 
 #Frontend
