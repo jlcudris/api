@@ -28,6 +28,8 @@ el nombre de la carpeta que contendra el desarollo backend sera api
 
 *el archivo .env tiene las variables de entorno para la conexion a la BD Modificar si ese necesario
 
+#Dentro de la carpeta public crear una carpeta llamada documentos para que en esta se almacenen los archivos asociados a un evento, en caso tal no se cree por permisos. 
+
 #Frontend
 Node.js v18.13.0
 @vue/cli 5.0.8

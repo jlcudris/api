@@ -6,8 +6,6 @@ class UploadDoc {
 
     final public static function uploadImage($file)
     {
-        
-            
                 $tmp_name = $file["tmp_name"];
                 $name = basename(uniqid().$file["name"]);
                if(move_uploaded_file($tmp_name, SITE_ROOT.'/documentos/'.$name)){
